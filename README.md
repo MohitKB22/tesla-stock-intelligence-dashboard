@@ -5,21 +5,6 @@ SimpleRNN & LSTM deep learning models to predict Tesla stock prices.
 
 ---
 
-## ⚡ Install & Run
-
-```bash
-# 1. Install (all available on Python 3.14)
-pip install numpy pandas matplotlib seaborn scikit-learn streamlit
-
-# 2. Run Notebook
-jupyter notebook Tesla_Stock_Prediction.ipynb
-
-# 3. Run Streamlit App (from terminal — NOT the VS Code play button)
-streamlit run app.py
-```
-
----
-
 ## 📁 Files
 
 | File | Description |
