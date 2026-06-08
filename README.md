@@ -1,6 +1,6 @@
 # 🚗 Tesla Stock Intelligence Dashboard
 
-Deep learning–inspired forecasting models for Tesla stock prices using pure Python and scikit-learn — fully compatible with Python 3.14.
+Deep learning–inspired forecasting models for Tesla stock prices using pure Python and scikit-learn 
 
 ## 📖 Description
 
