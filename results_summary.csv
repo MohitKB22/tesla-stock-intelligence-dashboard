@@ -1,0 +1,7 @@
+Model,Forecast,RMSE,MAE,R2
+SimpleRNN,1-day,19.95,15.77,0.853
+LSTM,1-day,16.3,12.75,0.9018
+SimpleRNN,5-day,32.77,26.83,0.6055
+LSTM,5-day,23.32,18.33,0.8001
+SimpleRNN,10-day,36.61,30.26,0.512
+LSTM,10-day,36.72,30.4,0.5089
